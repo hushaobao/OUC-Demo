@@ -9,3 +9,10 @@
 
 #### 界面使用PyQT5编写(比较简洁)
 
+
+
+#### 效果展示
+
+![原图](https://github.com/hushaobao/OUC-Demo/edit/master/data/6.jpg)
+
+![结果图](https://github.com/hushaobao/OUC-Demo/edit/master/result/new_img.jpg)
