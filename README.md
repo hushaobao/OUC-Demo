@@ -1,4 +1,3 @@
-### 功能描述
 
 #### 实现功能
 
@@ -7,12 +6,18 @@
 3、可实现对重复花纹、规律纹理、纯色背景的自动填充  
 4、生成图片的纹理，自动与背景墙对齐  
 
+
+#### 实现原理
+1、仿射变换
+2、滤波
+3、纹理匹配模板
+
 #### 界面使用PyQT5编写(比较简洁)
 
 
 
 #### 效果展示
 
-![原图](https://github.com/hushaobao/OUC-Demo/edit/master/data/6.jpg)
 
+![原图](https://github.com/hushaobao/OUC-Demo/edit/master/data/6.jpg)
 ![结果图](https://github.com/hushaobao/OUC-Demo/edit/master/result/new_img.jpg)
