@@ -19,5 +19,5 @@
 #### 效果展示
 
 
-![原图](https://github.com/hushaobao/OUC-Demo/edit/master/data/6.jpg)
-![结果图](https://github.com/hushaobao/OUC-Demo/edit/master/result/new_img.jpg)
+![原图像](https://github.com/hushaobao/OUC-Demo/blob/master/data/6.jpg)  
+![结果图](https://github.com/hushaobao/OUC-Demo/blob/master/result/new_img.jpg)
